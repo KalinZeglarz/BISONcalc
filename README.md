@@ -1,6 +1,7 @@
 # BISONcalc
 Prosty kalkulator z wykrzystaniem Bisona,
-Utworzono z pomocą Wojciecha Kasperskiego(https://github.com/SuddenlyPineapple)
+### Pomoc w wykonaniu
+Wojciech Kasperski(https://github.com/SuddenlyPineapple)
 ## Obsługa
 ### Instrukcje
   - `nazwa_zmiennej = EXP` - operacja przypisania,
