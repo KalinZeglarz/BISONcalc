@@ -1,5 +1,5 @@
 # BISONcalc
-Prosty kalkulator z wykrzystaniem Bisona
+Prosty kalkulator z wykrzystaniem Bisona,
 Utworzono z pomocą Wojciecha Kasperskiego(https://github.com/SuddenlyPineapple)
 ## Obsługa
 ### Instrukcje
@@ -9,15 +9,15 @@ Utworzono z pomocą Wojciecha Kasperskiego(https://github.com/SuddenlyPineapple)
   - `WHILE` - `WHILE nazwa_zmiennej warunek INSTRUCTION` - instrukcja pętli WHILE
 
 ### Opis symboli
-  - `EXP` - wyrażenie
-  - `NUMBER` - liczba
-  - `VAR` - zmienna
-  - `OPERATOR` - operator matematyczny(tu: +, -, *, /)
-  - `CMP` - symbol porównania, np. `>`
-  - `INSTRUCTION` - instrukcja
+  - `EXP` - wyrażenie,
+  - `NUMBER` - liczba,
+  - `VAR` - zmienna,
+  - `OPERATOR` - operator matematyczny(tu: +, -, *, /),
+  - `CMP` - symbol porównania, np. `>`,
+  - `INSTRUCTION` - instrukcja,
 
 
 ## Wymagania 
-  - kompilator C++
-  - biblioteki Flex
-  - biblioteki Bison/Yacc 
+  - kompilator C++,
+  - biblioteki Flex,
+  - biblioteki Bison/Yacc, 
