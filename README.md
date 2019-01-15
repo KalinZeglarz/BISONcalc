@@ -6,7 +6,7 @@ Wojciech Kasperski(https://github.com/SuddenlyPineapple)
 ### Instrukcje
   - `nazwa_zmiennej = EXP` - operacja przypisania,
   - `PRINT` - operacja przypisania,
-  - `IF` - `IF(EXP CMP EXP) INSTRUCTION` - instrukcja warunkowa,
+  - `IF` - `IF EXP CMP EXP INSTRUCTION` - instrukcja warunkowa,
   - `WHILE` - `WHILE nazwa_zmiennej warunek INSTRUCTION` - instrukcja pętli WHILE
 
 ### Opis symboli
